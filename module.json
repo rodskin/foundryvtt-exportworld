@@ -1,0 +1,9 @@
+{   
+	"name": "export-world",   
+	"title": "export world",
+    "description": "This is an export module for your current world.<br />Hit the \"export button\" in the settings",
+	"author": "Rodskin",
+	"version": "1.0.0",
+	"compatibleCoreVersion": "0.5.3",
+	"url": "https://github.com/rodskin/foundryvtt-exportworld",
+ };
